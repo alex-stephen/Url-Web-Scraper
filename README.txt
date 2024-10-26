@@ -10,6 +10,6 @@
 
 #Learning Objectives:
   - To practice and develop my programming skills in Python.
-  - To expand my knowledge in the Artifical Intelligence and Machine Learning field.
+  - To expand my knowledge in the Artificial Intelligence and Machine Learning field.
   - Use Python to automate and interact with web and web elements. 
-  - Introduction to parsing large amounts of data in an efficient maner.
+  - Introduction to parsing large amounts of data in an efficient manner.
